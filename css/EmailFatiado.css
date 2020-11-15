@@ -1,0 +1,17 @@
+img {
+    display: block;
+}
+
+.planosDentais {
+    display: inline-block;
+}
+
+.container {
+    /* position: relative;
+    left: 50%; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 653px;
+    height: 1222px;
+
+}
